@@ -103,6 +103,15 @@ Necesitará construir las siguientes pagínas:
   <br/>
   <br/>
 
+## Trabajo Práctico (se le suman las preguntas ya respondidas anteriormente)
+
+En base a su experiencia en el desarrollo de la parte práctica del TP1
+
+- En su trabajo, ¿cuál considera que fue lo más difícil de realizar?<br/>
+  `Yo considero que lo mas dificil de realuizar fueron la distribucion de las grid a la hora de poder mostrar las diferentes portadas de los discos. Me llevo bastante poder emprolijarlas para que queden de igual posicion`<br/><br/>
+- En las entregas, detectamos una gran variedad de temáticas únicas e interesantes. ¿Podría decirnos en qué se inspiró para realizar su página web? ¿Utilizó alguna página existente como referencia?<br/>
+  `En mi caso, me inspire en mi gran pasion por la musica y la desesperacion que sentia en su momento por un rejunte de paginas web de tiendas online que carecian de un aspecto digno de la musica como tal, o mismo se rebajaban a estar en una plataforma como tiendanube, por lo que eso fue mi inspiracion. Y en el caso de las referencias, fue puro gusto propio, pero aun asi tuve que fijarme en diferentes tiendas online de musica como "El Ateneo/Yenny" o "Exiles Records" como para poder tener una idea de lo que corregir`<br/><br/>
+
 > Happy coding!
 
 <img src="https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif" width="150">
